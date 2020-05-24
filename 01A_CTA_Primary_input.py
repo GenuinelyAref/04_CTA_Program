@@ -1,4 +1,4 @@
-# Component 1: Input type
+# Component 1A: Input type
 
 # To do
 # Get input
@@ -15,4 +15,4 @@ try:
     print("Input is a number")
 except ValueError:
     # If ValueError = True, then 'val' is not int type
-    print("Input is a string")
+    print("Input is not an integer")
