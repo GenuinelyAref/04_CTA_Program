@@ -1,4 +1,4 @@
-# Component 1B: Input type
+# Component 1B: Input type (simple - expanded)
 
 # To do
 # Trialling...

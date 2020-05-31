@@ -1,4 +1,4 @@
-# Component 1A: Input type
+# Component 1A: Input type (simple)
 
 # To do
 # Get input
