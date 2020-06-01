@@ -1,16 +1,16 @@
-# Component 3: Take statistics from printed lists
+# Component 5: Trial different method for collecting statistics
 
 # To do
-# Add cost of purchase next to each printed list
-# Take min/max values
-# Find average list length
-# Give user summary stats, min/max/avg items, with cost values
+# Trial :)))
 
 import random
 
 # Manually insert letters of word
 letters = ['a', 'r', 'e', 'f']
 TRIALS = 20
+single_cost = 3
+total_cost = 0
+results = []
 
 for something in range(1, TRIALS+1):
     # Define lists
@@ -31,5 +31,17 @@ for something in range(1, TRIALS+1):
         # Add value to another list, which will be used to tell when there is at least one of every item (letter/number)
         random_indexes.append(num)
     length = len(random_list)
-    number = 80-(length*5)
-    print("{}{}==> Length = {}".format(random_list, " "*number, length))
+    results.append(length)
+    cost = length*single_cost
+    total_cost += cost
+    number = 120-(length*5)
+    print("{}{}  {} items = ${}".format(random_list, " "*number, length, cost))
+results.sort()
+average = int("{:.0f}".format(sum(results)/TRIALS))
+MIN = results[0]
+MAX = results[-1]
+print("\nTotal cost: ${:.2f}\n".format(total_cost))
+print("Average: {} items = ${:.2f}\nAverage savings/discount: {:.2f}%\n"
+      .format(average, average*single_cost, 100/(average+1),))
+print("Minimum: {} items = ${:.2f}\nMinimum savings/discount: {:.2f}%\n\nMaximum: {} items = ${:.2f}\nMaximum "
+      "savings/discount: {:.2f}%".format(MIN, MIN*single_cost, 100/(MIN+1), MAX, MAX*single_cost, 100/(MAX+1)))
