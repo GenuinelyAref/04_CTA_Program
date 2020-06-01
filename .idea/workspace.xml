@@ -42,8 +42,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.02_CTA_List_Generation">
-    <configuration name="00_sandpit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.04_CTA_List_Output">
+    <configuration name="03B_CTA_List_Output" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="04_CTA_Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00_sandpit.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Aref\Desktop\Programming\04_CTA_Program\04_CTA_List_Output.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01D_CTA_Generic_Usable_Function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03_CTA_List_Generation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="04_CTA_Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01D_CTA_Generic_Usable_Function.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Aref\Desktop\Programming\04_CTA_Program\03_CTA_List_Generation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01v2_CTA_Primary_input" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04B_CTA_List_Output_modified" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="04_CTA_Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Aref\Desktop\Programming\04_CTA_Program\01C_CTA_Complex_Input_Types.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04B_CTA_List_Output_modified.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_CTA_List_Generation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04_CTA_List_Output" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="04_CTA_Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_CTA_List_Generation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_CTA_List_Output.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_CTA_Secondary_inputs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="05_CTA_Statistics" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="04_CTA_Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_CTA_Secondary_inputs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_CTA_Statistics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.02_CTA_List_Generation" />
-        <item itemvalue="Python.01D_CTA_Generic_Usable_Function" />
-        <item itemvalue="Python.01v2_CTA_Primary_input" />
-        <item itemvalue="Python.00_sandpit" />
-        <item itemvalue="Python.02_CTA_Secondary_inputs" />
+        <item itemvalue="Python.04_CTA_List_Output" />
+        <item itemvalue="Python.04B_CTA_List_Output_modified" />
+        <item itemvalue="Python.05_CTA_Statistics" />
+        <item itemvalue="Python.03B_CTA_List_Output" />
+        <item itemvalue="Python.03_CTA_List_Generation" />
       </list>
     </recent_temporary>
   </component>
