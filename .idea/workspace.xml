@@ -42,8 +42,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.05B_CTA_Statistics_trialling">
-    <configuration name="03B_CTA_List_Output" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.01F_CTA_Input_functions">
+    <configuration name="01E_CTA_mod'fd_Input_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="04_CTA_Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Aref\Desktop\Programming\04_CTA_Program\04_CTA_List_Output.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01E_CTA_mod'fd_Input_functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04B_CTA_List_Output_modified" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="01F_CTA_Input_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="04_CTA_Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04B_CTA_List_Output_modified.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01F_CTA_Input_functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_CTA_List_Output" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02_CTA_Duplicateless_List_Input" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="04_CTA_Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_CTA_List_Output.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_CTA_Duplicateless_List_Input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05B_CTA_Statistics_trialling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="05A_CTA_Statistics" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="04_CTA_Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05B_CTA_Statistics_trialling.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05A_CTA_Statistics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,19 +127,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_CTA_Statistics" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="04_CTA_Program" />
+    <configuration name="RPS_Game_v1.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="03_RPS_Game" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../03_RPS_Game" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Aref\Desktop\Programming\04_CTA_Program\05A_CTA_Statistics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../03_RPS_Game/RPS_Game_v1.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05B_CTA_Statistics_trialling" />
-        <item itemvalue="Python.05_CTA_Statistics" />
-        <item itemvalue="Python.04_CTA_List_Output" />
-        <item itemvalue="Python.04B_CTA_List_Output_modified" />
-        <item itemvalue="Python.03B_CTA_List_Output" />
+        <item itemvalue="Python.01F_CTA_Input_functions" />
+        <item itemvalue="Python.01E_CTA_mod'fd_Input_functions" />
+        <item itemvalue="Python.RPS_Game_v1.2" />
+        <item itemvalue="Python.02_CTA_Duplicateless_List_Input" />
+        <item itemvalue="Python.05A_CTA_Statistics" />
       </list>
     </recent_temporary>
   </component>
